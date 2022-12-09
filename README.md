@@ -1,2 +1,2 @@
 # Maze-Game-using-Tree-Data-Structure
-The game's name is "Maze Runner". It is a basic multiplayer game.
+We have made a game using the foundation as a binary tree. The game's name is "Maze Runner". It is a multiplayer game. A maze is generated which has exit point at a certain node. The player which reaches the exit node in the minimum number of steps wins the game. The maze also has dead ends and the game ends if a player reaches there.The winner is displayed in a .txt file using file handling and the layout of the maze is also displayed.
